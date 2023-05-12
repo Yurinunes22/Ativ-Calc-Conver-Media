@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prjAtividades", "prjAtivida
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculadoraprj", "calculadoraprj\calculadoraprj.csproj", "{56C934CE-9779-4B63-A88D-3B22DC32A7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjMedia", "WinFormsApp1\prjMedia.csproj", "{240F81B8-FAB4-4917-AEB9-D7A9EEAE25C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prjMedia", "WinFormsApp1\prjMedia.csproj", "{240F81B8-FAB4-4917-AEB9-D7A9EEAE25C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjDescontoSalario", "PrjDescontoSalario\PrjDescontoSalario.csproj", "{7607D21B-0B1D-400C-B765-8729643BB8F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{240F81B8-FAB4-4917-AEB9-D7A9EEAE25C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{240F81B8-FAB4-4917-AEB9-D7A9EEAE25C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{240F81B8-FAB4-4917-AEB9-D7A9EEAE25C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7607D21B-0B1D-400C-B765-8729643BB8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7607D21B-0B1D-400C-B765-8729643BB8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7607D21B-0B1D-400C-B765-8729643BB8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7607D21B-0B1D-400C-B765-8729643BB8F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
